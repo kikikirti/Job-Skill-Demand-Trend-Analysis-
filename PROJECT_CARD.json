@@ -1,0 +1,21 @@
+{
+  "author": "Kirti Gupta",
+  "course": "Minor in Artificial Intelligence",
+  "date": "August 2025",
+  "title": "Job Skill Demand Trend Analysis & Forecasting",
+  "problem_statement": "Forecast short-horizon demand (# of unique job postings/day) for top skills to identify rising/falling trends.",
+  "objectives": [
+    "Clean & harmonize LinkedIn postings, map skill taxonomy",
+    "Establish baselines (Naive/MA/SES/ARIMA) and Prophet",
+    "Evaluate with MAE/RMSE/sMAPE/MASE; compare models by skill",
+    "Produce repo-ready artifacts & concise demo"
+  ],
+  "dataset": "Kaggle: linkedin-job-postings",
+  "deliverables": [
+    "metrics CSVs",
+    "forecast CSVs",
+    "report",
+    "slides",
+    "demo video"
+  ]
+}
