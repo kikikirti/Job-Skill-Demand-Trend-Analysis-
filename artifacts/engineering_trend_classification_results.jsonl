@@ -1,0 +1,2 @@
+{"block":"walk_forward_cv","title":"(Aggregated per-fold predictions)","thr":0.5,"acc":0.6666666667,"bacc":0.6666666667,"prec":1.0,"rec":0.3333333333,"f1":0.5,"mcc":0.4472135955,"auc":0.4444444444,"cm":[[3,0],[2,1]],"n_folds":6,"avg_thr":0.2416666667}
+{"block":"tiny_holdout","title":"[Engineering] Tiny hold-out (thr=0.25, rows=3)","thr":0.25,"acc":0.6666666667,"bacc":0.5,"prec":0.0,"rec":0.0,"f1":0.0,"mcc":0.0,"auc":1.0,"cm":[[2,0],[1,0]]}
