@@ -3,7 +3,7 @@
 **Author:** Kirti Gupta  
 **Course:** Minor in Artificial Intelligence  
 **Date:** August 2025  
-**Dataset:** Kaggle — [LinkedIn Job Postings](https://www.kaggle.com/datasets/asaniczka/linkedin-job-postings)  
+**Dataset:** Kaggle — [LinkedIn Job Postings](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings)  
 
 ---
 
