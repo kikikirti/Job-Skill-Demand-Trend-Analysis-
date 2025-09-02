@@ -1,6 +1,7 @@
-pandas
-numpy
-matplotlib
-statsmodels
-prophet
-scikit-learn
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.0
+scikit-learn==1.5.0
+statsmodels==0.14.2
+prophet==1.1.5
+cmdstanpy==1.2.4
